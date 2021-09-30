@@ -1,0 +1,20 @@
+COMMENT: Tests that trader info is correct when traders only trade with themselves, when they dont trade at all, and when they do trade with eachother
+MODE: TL
+NUM_TRADERS: 4
+NUM_STOCKS: 3
+0 BUY T1 S0 $100 #10
+0 BUY T3 S2 $1000 #50
+0 BUY T2 S1 $100 #10
+1 SELL T2 S1 $50 #5
+1 SELL T0 S0 $200 #2
+2 SELL T0 S0 $250 #2
+2 SELL T2 S1 $40 #7
+3 SELL T3 S0 $5000 #50
+3 BUY T1 S0 $100 #5
+4 BUY T1 S0 $250 #5
+4 BUY T1 S0 $225 #5
+5 BUY T1 S0 $270 #5
+6 SELL T1 S0 $100 #2
+7 BUY T1 S0 $150 #1
+8 BUY T1 S0 $170 #1
+9 BUY T1 S0 $200 #1

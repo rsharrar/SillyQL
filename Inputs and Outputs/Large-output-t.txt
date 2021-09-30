@@ -1,0 +1,29 @@
+Processing orders...
+---End of Day---
+Orders Processed: 76505
+---Time Travelers---
+A time traveler would buy shares of Stock 0 at time: 14 and sell these shares at time: 126
+A time traveler would buy shares of Stock 1 at time: 194 and sell these shares at time: 295
+A time traveler would buy shares of Stock 2 at time: 57 and sell these shares at time: 284
+A time traveler would buy shares of Stock 3 at time: 0 and sell these shares at time: 204
+A time traveler would buy shares of Stock 4 at time: 31 and sell these shares at time: 45
+A time traveler would buy shares of Stock 5 at time: 137 and sell these shares at time: 258
+A time traveler would buy shares of Stock 6 at time: 9 and sell these shares at time: 56
+A time traveler would buy shares of Stock 7 at time: 16 and sell these shares at time: 107
+A time traveler would buy shares of Stock 8 at time: 67 and sell these shares at time: 193
+A time traveler would buy shares of Stock 9 at time: 42 and sell these shares at time: 106
+A time traveler would buy shares of Stock 10 at time: 50 and sell these shares at time: 147
+A time traveler would buy shares of Stock 11 at time: 214 and sell these shares at time: 221
+A time traveler would buy shares of Stock 12 at time: 41 and sell these shares at time: 119
+A time traveler would buy shares of Stock 13 at time: 44 and sell these shares at time: 182
+A time traveler would buy shares of Stock 14 at time: 7 and sell these shares at time: 47
+A time traveler would buy shares of Stock 15 at time: 173 and sell these shares at time: 221
+A time traveler would buy shares of Stock 16 at time: 40 and sell these shares at time: 126
+A time traveler would buy shares of Stock 17 at time: 145 and sell these shares at time: 216
+A time traveler would buy shares of Stock 18 at time: 10 and sell these shares at time: 50
+A time traveler would buy shares of Stock 19 at time: 31 and sell these shares at time: 56
+A time traveler would buy shares of Stock 20 at time: 128 and sell these shares at time: 154
+A time traveler would buy shares of Stock 21 at time: 7 and sell these shares at time: 28
+A time traveler would buy shares of Stock 22 at time: 36 and sell these shares at time: 89
+A time traveler would buy shares of Stock 23 at time: 50 and sell these shares at time: 60
+A time traveler would buy shares of Stock 24 at time: 189 and sell these shares at time: 338

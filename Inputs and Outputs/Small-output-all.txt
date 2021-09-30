@@ -1,0 +1,156 @@
+Processing orders...
+Trader 1 purchased 14 shares of Stock 3 from Trader 3 for $2/share
+Median match price of Stock 3 at time 0 is $2
+Trader 2 purchased 1 shares of Stock 0 from Trader 3 for $68/share
+Trader 1 purchased 3 shares of Stock 0 from Trader 3 for $52/share
+Trader 0 purchased 17 shares of Stock 0 from Trader 3 for $27/share
+Median match price of Stock 0 at time 1 is $52
+Median match price of Stock 3 at time 1 is $2
+Trader 0 purchased 39 shares of Stock 1 from Trader 1 for $76/share
+Trader 4 purchased 15 shares of Stock 2 from Trader 4 for $97/share
+Median match price of Stock 0 at time 2 is $52
+Median match price of Stock 1 at time 2 is $76
+Median match price of Stock 2 at time 2 is $97
+Median match price of Stock 3 at time 2 is $2
+Trader 0 purchased 7 shares of Stock 1 from Trader 2 for $76/share
+Trader 4 purchased 25 shares of Stock 2 from Trader 0 for $100/share
+Trader 4 purchased 13 shares of Stock 2 from Trader 0 for $71/share
+Trader 2 purchased 9 shares of Stock 2 from Trader 0 for $70/share
+Trader 2 purchased 1 shares of Stock 0 from Trader 3 for $27/share
+Trader 2 purchased 2 shares of Stock 0 from Trader 4 for $57/share
+Trader 3 purchased 23 shares of Stock 3 from Trader 3 for $2/share
+Trader 3 purchased 3 shares of Stock 3 from Trader 4 for $22/share
+Median match price of Stock 0 at time 3 is $52
+Median match price of Stock 1 at time 3 is $76
+Median match price of Stock 2 at time 3 is $84
+Median match price of Stock 3 at time 3 is $2
+Trader 2 purchased 28 shares of Stock 2 from Trader 3 for $70/share
+Trader 3 purchased 11 shares of Stock 2 from Trader 3 for $70/share
+Trader 1 purchased 3 shares of Stock 2 from Trader 3 for $66/share
+Median match price of Stock 0 at time 4 is $52
+Median match price of Stock 1 at time 4 is $76
+Median match price of Stock 2 at time 4 is $70
+Median match price of Stock 3 at time 4 is $2
+Trader 1 purchased 3 shares of Stock 1 from Trader 0 for $93/share
+Trader 3 purchased 24 shares of Stock 3 from Trader 4 for $22/share
+Trader 2 purchased 5 shares of Stock 0 from Trader 2 for $83/share
+Median match price of Stock 0 at time 5 is $54
+Median match price of Stock 1 at time 5 is $76
+Median match price of Stock 2 at time 5 is $70
+Median match price of Stock 3 at time 5 is $12
+Trader 2 purchased 7 shares of Stock 0 from Trader 1 for $83/share
+Median match price of Stock 0 at time 6 is $57
+Median match price of Stock 1 at time 6 is $76
+Median match price of Stock 2 at time 6 is $70
+Median match price of Stock 3 at time 6 is $12
+Median match price of Stock 0 at time 7 is $57
+Median match price of Stock 1 at time 7 is $76
+Median match price of Stock 2 at time 7 is $70
+Median match price of Stock 3 at time 7 is $12
+Trader 4 purchased 25 shares of Stock 1 from Trader 0 for $83/share
+Trader 3 purchased 34 shares of Stock 2 from Trader 1 for $98/share
+Trader 3 purchased 10 shares of Stock 3 from Trader 4 for $22/share
+Trader 3 purchased 37 shares of Stock 3 from Trader 1 for $46/share
+Median match price of Stock 0 at time 8 is $57
+Median match price of Stock 1 at time 8 is $79
+Median match price of Stock 2 at time 8 is $70
+Median match price of Stock 3 at time 8 is $22
+Trader 2 purchased 42 shares of Stock 3 from Trader 1 for $21/share
+Trader 4 purchased 15 shares of Stock 1 from Trader 1 for $83/share
+Trader 4 purchased 9 shares of Stock 1 from Trader 2 for $83/share
+Trader 0 purchased 2 shares of Stock 1 from Trader 2 for $76/share
+Trader 2 purchased 3 shares of Stock 1 from Trader 2 for $74/share
+Median match price of Stock 0 at time 9 is $57
+Median match price of Stock 1 at time 9 is $79
+Median match price of Stock 2 at time 9 is $70
+Median match price of Stock 3 at time 9 is $22
+Median match price of Stock 0 at time 10 is $57
+Median match price of Stock 1 at time 10 is $79
+Median match price of Stock 2 at time 10 is $70
+Median match price of Stock 3 at time 10 is $22
+Trader 3 purchased 6 shares of Stock 3 from Trader 4 for $24/share
+Trader 3 purchased 6 shares of Stock 3 from Trader 1 for $46/share
+Trader 3 purchased 8 shares of Stock 2 from Trader 1 for $98/share
+Trader 3 purchased 7 shares of Stock 2 from Trader 0 for $98/share
+Trader 0 purchased 19 shares of Stock 2 from Trader 0 for $89/share
+Trader 2 purchased 5 shares of Stock 2 from Trader 0 for $78/share
+Trader 4 purchased 19 shares of Stock 1 from Trader 4 for $85/share
+Median match price of Stock 0 at time 11 is $57
+Median match price of Stock 1 at time 11 is $83
+Median match price of Stock 2 at time 11 is $83
+Median match price of Stock 3 at time 11 is $22
+Trader 4 purchased 3 shares of Stock 1 from Trader 4 for $85/share
+Trader 2 purchased 30 shares of Stock 1 from Trader 4 for $74/share
+Trader 1 purchased 17 shares of Stock 1 from Trader 4 for $73/share
+Trader 1 purchased 11 shares of Stock 1 from Trader 2 for $73/share
+Trader 2 purchased 18 shares of Stock 2 from Trader 0 for $78/share
+Trader 2 purchased 12 shares of Stock 2 from Trader 2 for $88/share
+Trader 3 purchased 1 shares of Stock 2 from Trader 2 for $76/share
+Trader 2 purchased 5 shares of Stock 2 from Trader 2 for $71/share
+Trader 1 purchased 9 shares of Stock 2 from Trader 2 for $66/share
+Trader 0 purchased 15 shares of Stock 2 from Trader 2 for $53/share
+Median match price of Stock 0 at time 12 is $57
+Median match price of Stock 1 at time 12 is $76
+Median match price of Stock 2 at time 12 is $77
+Median match price of Stock 3 at time 12 is $22
+Trader 0 purchased 3 shares of Stock 2 from Trader 2 for $53/share
+Trader 4 purchased 4 shares of Stock 2 from Trader 2 for $9/share
+Median match price of Stock 0 at time 13 is $57
+Median match price of Stock 1 at time 13 is $76
+Median match price of Stock 2 at time 13 is $73
+Median match price of Stock 3 at time 13 is $22
+Trader 4 purchased 24 shares of Stock 1 from Trader 2 for $53/share
+Trader 4 purchased 14 shares of Stock 1 from Trader 0 for $93/share
+Median match price of Stock 0 at time 14 is $57
+Median match price of Stock 1 at time 14 is $76
+Median match price of Stock 2 at time 14 is $73
+Median match price of Stock 3 at time 14 is $22
+Trader 0 purchased 10 shares of Stock 3 from Trader 3 for $34/share
+Trader 0 purchased 3 shares of Stock 3 from Trader 2 for $34/share
+Trader 0 purchased 2 shares of Stock 3 from Trader 1 for $46/share
+Trader 0 purchased 23 shares of Stock 3 from Trader 0 for $50/share
+Trader 3 purchased 15 shares of Stock 0 from Trader 0 for $87/share
+Trader 3 purchased 2 shares of Stock 0 from Trader 0 for $87/share
+Trader 2 purchased 2 shares of Stock 3 from Trader 2 for $21/share
+Median match price of Stock 0 at time 15 is $68
+Median match price of Stock 1 at time 15 is $76
+Median match price of Stock 2 at time 15 is $73
+Median match price of Stock 3 at time 15 is $23
+Trader 3 purchased 7 shares of Stock 0 from Trader 4 for $87/share
+Trader 2 purchased 16 shares of Stock 0 from Trader 4 for $83/share
+Trader 2 purchased 5 shares of Stock 3 from Trader 2 for $21/share
+Trader 3 purchased 8 shares of Stock 3 from Trader 2 for $9/share
+Trader 3 purchased 13 shares of Stock 3 from Trader 2 for $40/share
+Trader 2 purchased 1 shares of Stock 3 from Trader 2 for $40/share
+Trader 2 purchased 9 shares of Stock 0 from Trader 4 for $83/share
+Trader 4 purchased 33 shares of Stock 0 from Trader 4 for $81/share
+Trader 2 purchased 6 shares of Stock 0 from Trader 4 for $78/share
+Median match price of Stock 0 at time 16 is $82
+Median match price of Stock 1 at time 16 is $76
+Median match price of Stock 2 at time 16 is $73
+Median match price of Stock 3 at time 16 is $23
+Trader 2 purchased 12 shares of Stock 0 from Trader 4 for $78/share
+Trader 4 purchased 22 shares of Stock 2 from Trader 4 for $88/share
+Trader 1 purchased 27 shares of Stock 2 from Trader 4 for $36/share
+Median match price of Stock 0 at time 17 is $81
+Median match price of Stock 1 at time 17 is $76
+Median match price of Stock 2 at time 17 is $73
+Median match price of Stock 3 at time 17 is $23
+Trader 2 purchased 29 shares of Stock 3 from Trader 0 for $45/share
+Median match price of Stock 0 at time 18 is $81
+Median match price of Stock 1 at time 18 is $76
+Median match price of Stock 2 at time 18 is $73
+Median match price of Stock 3 at time 18 is $24
+---End of Day---
+Orders Processed: 71
+---Trader Info---
+Trader 0 bought 140 and sold 207 for a net transfer of $7378
+Trader 1 bought 87 and sold 190 for a net transfer of $7587
+Trader 2 bought 248 and sold 142 for a net transfer of $-7200
+Trader 3 bought 215 and sold 111 for a net transfer of $-7258
+Trader 4 bought 221 and sold 261 for a net transfer of $-507
+---Time Travelers---
+A time traveler would buy shares of Stock 0 at time: 5 and sell these shares at time: 13
+A time traveler would buy shares of Stock 1 at time: 12 and sell these shares at time: 14
+A time traveler would buy shares of Stock 2 at time: 17 and sell these shares at time: 18
+A time traveler would buy shares of Stock 3 at time: 0 and sell these shares at time: 5

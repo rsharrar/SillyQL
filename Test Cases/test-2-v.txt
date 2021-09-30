@@ -1,0 +1,10 @@
+COMMENT: Small equivalent TL file, 100 trades
+MODE: TL
+NUM_TRADERS: 3
+NUM_STOCKS: 2
+0 SELL T1 S0 $20 #1
+0 SELL T0 S0 $10 #1
+0 BUY T0 S0 $1 #2
+0 BUY T1 S1 $20 #1
+0 BUY T0 S1 $16 #1
+0 SELL T0 S1 $15 #2

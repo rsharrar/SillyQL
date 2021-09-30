@@ -1,0 +1,13 @@
+COMMENT: Targets trades that happen in specific orders.
+MODE: TL
+NUM_TRADERS: 3
+NUM_STOCKS: 2
+0 SELL T0 S0 $2 #40
+0 BUY T1 S0 $97 #15
+0 BUY T2 S0 $5 #50
+1 SELL T0 S0 $10 #3
+1 SELL T0 S0 $2 #20
+2 BUY T0 S1 $50 #15
+2 BUY T1 S1 $50 #15
+2 SELL T2 S1 $30 #25
+2 SELL T1 S1 $20 #5

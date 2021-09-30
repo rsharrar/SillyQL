@@ -1,0 +1,21 @@
+COMMENT: Tests that median works for odd and even number of prices, checks that medians do not print for no trades, checks that multiple trades of same price give correct median
+MODE: TL
+NUM_TRADERS: 4
+NUM_STOCKS: 4
+0 SELL T0 S0 $10 #100
+0 BUY T0 S0 $20 #10
+0 BUY T0 S0 $40 #10
+1 SELL T1 S1 $10 #100
+1 BUY T1 S1 $20 #10
+1 BUY T1 S1 $40 #10
+1 BUY T1 S1 $60 #10
+2 SELL T2 S2 $10 #100
+2 BUY T2 S2 $20 #10
+2 BUY T2 S2 $20 #10
+2 BUY T3 S2 $20 #10
+2 BUY T3 S2 $20 #10
+2 BUY T3 S2 $20 #10
+3 SELL T3 S3 $100 #10
+3 SELL T3 S3 $150 #10
+3 SELL T3 S3 $120 #10
+3 SELL T3 S3 $10 #10

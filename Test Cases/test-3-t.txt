@@ -1,0 +1,17 @@
+COMMENT: Tests that time traveler can find the most lucrative set of trades, and doesn't do anything if a stock is untraded.
+MODE: TL
+NUM_TRADERS: 3
+NUM_STOCKS: 2
+0 BUY T1 S0 $100 #10
+0 BUY T2 S1 $100 #10
+0 SELL T2 S1 $200 #10
+1 SELL T0 S0 $200 #2
+2 SELL T0 S0 $250 #2
+3 BUY T1 S0 $100 #5
+4 BUY T1 S0 $250 #5
+4 BUY T1 S0 $225 #5
+5 BUY T1 S0 $270 #5
+6 SELL T1 S0 $100 #2
+7 BUY T1 S0 $150 #1
+8 BUY T1 S0 $170 #1
+9 BUY T1 S0 $200 #1

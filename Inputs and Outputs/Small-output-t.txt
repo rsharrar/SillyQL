@@ -1,0 +1,8 @@
+Processing orders...
+---End of Day---
+Orders Processed: 71
+---Time Travelers---
+A time traveler would buy shares of Stock 0 at time: 5 and sell these shares at time: 13
+A time traveler would buy shares of Stock 1 at time: 12 and sell these shares at time: 14
+A time traveler would buy shares of Stock 2 at time: 17 and sell these shares at time: 18
+A time traveler would buy shares of Stock 3 at time: 0 and sell these shares at time: 5

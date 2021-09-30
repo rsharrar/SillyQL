@@ -1,0 +1,12 @@
+COMMENT: Tests Buy and Sell order comparators and if the program deals with non 1-for-1 trades correctly
+MODE: TL
+NUM_TRADERS: 3
+NUM_STOCKS: 2
+0 SELL T1 S0 $2 #1
+0 SELL T0 S0 $10 #5
+1 BUY T0 S0 $94 #2
+2 BUY T0 S1 $94 #5
+2 BUY T1 S1 $10 #5
+3 SELL T2 S1 $5 #15
+3 BUY T2 S1 $2 #5
+3 BUY T1 S1 $7 #5
